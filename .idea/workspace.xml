@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc0752e2-ccd3-45b8-9c0a-94c1baaac367" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/gt-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gt-pages.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-    </list>
+    <list default="true" id="cc0752e2-ccd3-45b8-9c0a-94c1baaac367" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -70,7 +67,7 @@
       <workItem from="1627024676714" duration="6388000" />
       <workItem from="1627820687958" duration="4571000" />
       <workItem from="1627829632088" duration="401000" />
-      <workItem from="1715151787038" duration="1043000" />
+      <workItem from="1715151787038" duration="1697000" />
     </task>
     <task id="LOCAL-00001" summary="ci">
       <created>1627035137032</created>
@@ -100,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627828317296</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Default Changelist">
+      <created>1715153077324</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715153077324</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ci" />
     <MESSAGE value="模版" />
-    <option name="LAST_COMMIT_MESSAGE" value="模版" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
 </project>
