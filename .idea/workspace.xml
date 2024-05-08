@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc0752e2-ccd3-45b8-9c0a-94c1baaac367" name="Default Changelist" comment="" />
+    <list default="true" id="cc0752e2-ccd3-45b8-9c0a-94c1baaac367" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/gt-pages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/gt-pages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e9c38e72-394a-4734-ba9b-39117c89cf04" />
+        <option name="url" value="git@github.com:Lizhuoyun/hugo-example.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1vhqSYy8yMVVyjbyhOyfWbpLLvO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,7 +39,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -52,6 +70,7 @@
       <workItem from="1627024676714" duration="6388000" />
       <workItem from="1627820687958" duration="4571000" />
       <workItem from="1627829632088" duration="401000" />
+      <workItem from="1715151787038" duration="1043000" />
     </task>
     <task id="LOCAL-00001" summary="ci">
       <created>1627035137032</created>
@@ -97,7 +116,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ci" />
